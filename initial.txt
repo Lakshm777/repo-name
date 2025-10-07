@@ -1,1 +1,2 @@
-This line was modified in b2
+This line was modified in both b2 and b3 (conflict resolved)
+
